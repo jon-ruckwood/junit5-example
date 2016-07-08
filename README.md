@@ -7,6 +7,8 @@ Reference project for getting started with [JUnit 5][0], [Mockito][1] and [Asser
 * Currently relies on a copy of [`MockitoExtension`][3] instead of official Mockito support.
 * Uses `JUnitPlatform.class` runner (i.e. JUnit 4 functionality) for IDE integration (this doesn't support all JUnit 5 features)
 
+See source code for further comments.
+
 #### Summary 
 
 JUnit 5 support is promising but IDE integration and integrations from major testing libraries, e.g. Mockito, is required before jumping on board.
