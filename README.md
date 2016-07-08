@@ -9,7 +9,7 @@ Reference project for getting started with [JUnit 5][0], [Mockito][1] and [Asser
 
 #### Summary 
 
-JUnit 5 support is promising but IDE integration from major testing libraries, e.g. Mockito, is required before jumping on board.
+JUnit 5 support is promising but IDE integration and integrations from major testing libraries, e.g. Mockito, is required before jumping on board.
 
 [0]: http://junit.org/junit5/
 [1]: http://mockito.org
