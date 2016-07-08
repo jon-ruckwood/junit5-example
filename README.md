@@ -1,4 +1,4 @@
-# junit5-quickstart
+# junit5-example
 
 Reference project for getting started with [JUnit 5][0], [Mockito][1] and [AssertJ][2].
 
