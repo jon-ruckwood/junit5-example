@@ -9,3 +9,4 @@ You may find yourself having to perform some manual integration if a rule is not
 [0]: http://junit.org/junit5/
 [1]: http://mockito.org
 [2]: http://joel-costigliola.github.io/assertj/
+
